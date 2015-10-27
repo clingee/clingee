@@ -1,0 +1,2 @@
+# clingee
+cLingee is an open source iPhone tracking application supporting the iPhone 3 and up. It protects against theft by pin pointing the iPhone location, in addition to automatically taking a picture using the front facing camera upon sending a message to the device. You can view the information on the front end site and on google maps or any mapping application. The code is open, feel free to make any modifications or improvements as necessary but please credit Alani Kuye for the work in addition to keeping the project open.
