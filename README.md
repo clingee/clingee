@@ -34,3 +34,5 @@ Using any IDE that supports apple development, NetBeans, Java etc for cross comp
 The zip files contain both the front end UI and the Server backend side, in addition to the installable iPhone App. YOu can either install this on your iPhone or put it in your apple / itune store. For those with a jailbroken device well...feel free to have at it!
 
 Additionally, you can customize, modify, improve, and make changes but REMEMBER it is an open source application first and foremost under the GNU V 2.0 license.
+
+The logical implementation and how they are connected is created in Django/Python, so if you want to add a new page you need some python skills, but for editing existing page that should be enough if you have basic HTML knowledge
